@@ -107,6 +107,11 @@ img
     } 
 }
 
+.barra
+{
+    padding-top: 4rem;
+}
+
 @media (min-width: 768px)
 { 
     .barra 
@@ -233,4 +238,12 @@ img
 .widget-curso__label , .widget-curso__info
 {
     font-size: 2rem;
+}
+
+/**Footer**/
+.footer
+{
+    background-color: var(--negro);
+    padding-bottom: 3rem;
+    margin-top: 4rem;
 }
